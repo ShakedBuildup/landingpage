@@ -1,0 +1,9 @@
+.big-cover {
+    background: url(http://debonairbuildingdesign.co.uk/wp-content/uploads/2015/04/building-design-front-page-sfw-1280x851.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
